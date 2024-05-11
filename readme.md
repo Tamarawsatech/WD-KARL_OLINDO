@@ -1,5 +1,7 @@
 <a name="readme-top">
 
+<a href="https://app.daily.dev/karll"><img src="https://api.daily.dev/devcards/v2/qOGQ7tNrK0AYdOk5zHnf5.png?type=default&r=lwl" width="356" alt="karl's Dev Card"/></a>
+
 <br/>
 
 <br />

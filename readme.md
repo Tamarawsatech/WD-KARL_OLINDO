@@ -22,7 +22,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?Tamarawsatech/WD-KARL_OLINDOS_SW2) 
+![](https://visit-counter.vercel.app/counter.png?Tamarawsatech/WD-KARL_OLINDO_SW2) 
 
 ---
 

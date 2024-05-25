@@ -8,21 +8,21 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/icon.jpg" alt="Smile" width="250" height="240">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">My Personal Portfolio</h3>
+  <h3 align="center">WD-KARL_OLINDO_SW2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This project consist of my personal resume
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?Tamarawsatech/WD-KARL_OLINDOS_SW2) 
 
 ---
 
@@ -63,9 +63,13 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+-- project is a digital resume website using html and css
 - Whats the purpose
+--the purpose of this activity is for students to sharpen their skills in web design
 - What are key components
+--consist of a perfonal background and experiences
 - What technology used and how it is used
+-- html and css
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -113,4 +117,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| how to create a responsive website resume using html and css | Used as a guide for creating a resume using html and css | [CLICKME](https://www.youtube.com/watch?v=hnjHCmaUVPg) |
